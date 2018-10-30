@@ -1,2 +1,2 @@
-# C
+# hcalc
 Calculator for firmware work
